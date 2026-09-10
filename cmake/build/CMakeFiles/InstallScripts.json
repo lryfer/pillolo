@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user/Projects/pillolo/build/cmake_install.cmake",
+		"/home/user/Projects/pillolo/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
